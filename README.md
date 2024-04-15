@@ -9,3 +9,5 @@ Project
 4. Use Salesforce to Create Reports & Dashboards by Coursera
 
 5. SALESFORCE INSURANCE MANAGEMENT SOLUTION
+
+6. SALESFORCE INSURANCE MANAGEMENT SOLUTION (POC)
