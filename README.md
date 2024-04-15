@@ -7,3 +7,5 @@ Project
 3. Use Salesforce to Support Customers by Coursera
 
 4. Use Salesforce to Create Reports & Dashboards by Coursera
+
+5. SALESFORCE INSURANCE MANAGEMENT SOLUTION
